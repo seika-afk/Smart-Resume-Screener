@@ -3,6 +3,7 @@ Smart Resume Screener
 
 A Complete end to end MLOPS Project Helping in Screening Resume according to JD .
 
+
 Project Organization
 ------------
 
