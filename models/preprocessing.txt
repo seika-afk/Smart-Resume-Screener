@@ -1,0 +1,11 @@
+> Provide the Resume content
+> and provide the jd
+
+
+
+-steps 
+- apply stemming function
+- transform it using tfidf
+- calculate cosine similarity
+- standard scaler
+
