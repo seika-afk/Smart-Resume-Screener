@@ -1,0 +1,5 @@
+[ 2026-01-22 02:58:41,308 ] root - INFO - Reading dataset
+[ 2026-01-22 02:58:41,374 ] root - INFO - Starting preprocessing
+[ 2026-01-22 02:59:02,547 ] root - INFO - Preprocessing completed
+[ 2026-01-22 02:59:12,304 ] root - INFO - Model Trained.
+[ 2026-01-22 02:59:12,448 ] root - INFO - Calculated Accuracy : 0.7385
