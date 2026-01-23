@@ -1,0 +1,2 @@
+[ 2026-01-24 01:40:04,798 ] root - INFO - Data ingestion from s3 bucket initialized
+[ 2026-01-24 01:40:24,297 ] root - INFO - Succefully fetched data
