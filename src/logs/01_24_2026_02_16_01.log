@@ -1,0 +1,7 @@
+[ 2026-01-24 02:16:27,972 ] root - INFO - Reading dataset
+[ 2026-01-24 02:16:29,940 ] root - INFO - Starting preprocessing
+[ 2026-01-24 02:16:50,169 ] root - INFO - Preprocessing completed
+[ 2026-01-24 02:16:59,819 ] root - INFO - Model Trained.
+[ 2026-01-24 02:21:03,424 ] root - INFO - Tracked model
+[ 2026-01-24 02:21:04,149 ] root - INFO - Tracked metric
+[ 2026-01-24 02:21:04,149 ] root - INFO - Finished

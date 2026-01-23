@@ -1,0 +1,3 @@
+stages:
+  main_run:
+    cmd: python src/model_buildnevaluate.py

@@ -1,8 +1,8 @@
-from .data_preprocessing import preprocess
+from data_preprocessing import preprocess
 from sklearn.ensemble import RandomForestClassifier
 import joblib
 from sklearn.metrics import accuracy_score
-from .logger import logging
+from logger import logging
 
 import mlflow
 import mlflow.sklearn
