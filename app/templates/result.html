@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Result</title>
+
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      background: #f2f2f2;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .box {
+      width: 420px;
+      background: #ffffff;
+      border: 2px solid #bfbfbf;
+      padding: 20px;
+      box-shadow: 3px 3px 0 #d9d9d9;
+      text-align: center;
+    }
+
+    h2 {
+      margin-top: 0;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 8px;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 15px;
+      font-size: 13px;
+      color: #0000cc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="box">
+    <h2>Analysis Result</h2>
+
+    <p><strong>Match Score:</strong> {{ score }}</p>
+    <p><strong>Verdict:</strong> {{ verdict }}</p>
+
+    <a href="/">← Try another</a>
+  </div>
+</body>
+</html>
+
