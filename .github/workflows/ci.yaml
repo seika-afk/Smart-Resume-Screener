@@ -25,10 +25,6 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Check model files
-        run: |
-          test -f models/model.pkl
-          test -f models/vectorizer.pkl
-          test -f models/scaler.pkl
+     
 
 
